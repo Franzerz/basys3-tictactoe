@@ -1,0 +1,13 @@
+Vivado Simulator v2023.2
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2023.2/bin/unwrapped/win64.o/xelab.exe --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot TicTacToe_tb_behav xil_defaultlib.TicTacToe_tb -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+ERROR: [VRFC 10-3290] entity port 'left' does not match with type std_logic_vector of component port [C:/Users/user/tic/tic.srcs/sim_1/new/tick.vhd:21]
+ERROR: [VRFC 10-3290] entity port 'up' does not match with type std_logic_vector of component port [C:/Users/user/tic/tic.srcs/sim_1/new/tick.vhd:22]
+ERROR: [VRFC 10-3290] entity port 'right' does not match with type std_logic_vector of component port [C:/Users/user/tic/tic.srcs/sim_1/new/tick.vhd:23]
+ERROR: [VRFC 10-3290] entity port 'down' does not match with type std_logic_vector of component port [C:/Users/user/tic/tic.srcs/sim_1/new/tick.vhd:24]
+ERROR: [VRFC 10-3290] entity port 'confirm' does not match with type std_logic_vector of component port [C:/Users/user/tic/tic.srcs/sim_1/new/tick.vhd:25]
+ERROR: [VRFC 10-718] formal port <seg> does not exist in entity <TicTacToe>.  Please compare the definition of block <TicTacToe> to its component declaration and its instantion to detect the mismatch. [C:/Users/user/tic/tic.srcs/sim_1/new/tick.vhd:26]
+ERROR: [XSIM 43-3321] Static elaboration of top level VHDL design unit tictactoe_tb in library work failed.

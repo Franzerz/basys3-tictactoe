@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/user/tic/tic.srcs/sources_1/new/tictactoe.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'TicTacToe'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/user/tic/tic.srcs/sim_1/new/tick.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'TicTacToe_tb'
