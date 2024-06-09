@@ -1,2 +1,2 @@
 # basys3-tictactoe
-Final Projects for Digital Fundamental
+Final Projects for Digital Fundamental [ABANDON]
